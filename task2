@@ -1,0 +1,1 @@
+arn:aws:cloudwatch:us-east-1:703671921534:alarm:ApplicationInsights/ApplicationInsights-gowtham/AWS/SNS/NumberOfNotificationsFailed/aws-linux-utilization-emails
